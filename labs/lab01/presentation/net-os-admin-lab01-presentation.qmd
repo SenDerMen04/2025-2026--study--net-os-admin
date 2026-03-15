@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Структура научной презентации
-subtitle: Простейший вариант
+title: Лабораторная работа №1
+subtitle: Подготовка лабораторного стенда
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
