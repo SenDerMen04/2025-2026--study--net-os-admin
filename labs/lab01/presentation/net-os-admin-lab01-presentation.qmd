@@ -16,7 +16,7 @@ title: Лабораторная работа №1
 subtitle: Подготовка лабораторного стенда
 license: CC BY
 date: today
-date-format: "YYYY-MM-DD" # Example: 2025-09-06
+date-format: "YYYY-MM-DD" # Example: 2026-03-08
 ---
 
 # Информация
