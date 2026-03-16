@@ -69,7 +69,7 @@ date-format: "YYYY-MM-DD" # Example: 2026-03-08
 
 ## Конфигурирование первичного DNS-сервера
 
-![Изменение файла eademidova.net](image/image9.png){#fig:009 width=70%}
+![Изменение файла agko.net](image/image9.png){#fig:009 width=70%}
 
 ## Конфигурирование первичного DNS-сервера
 
@@ -97,7 +97,7 @@ date-format: "YYYY-MM-DD" # Example: 2026-03-08
 
 ## Анализ работы DNS-сервера
 
-![Описание  DNS-зоны с сервера ns.eademidova.net](image/image16.png){#fig:016 width=70%}
+![Описание  DNS-зоны с сервера ns.agko.net](image/image16.png){#fig:016 width=70%}
 
 ## Анализ работы DNS-сервера
 
